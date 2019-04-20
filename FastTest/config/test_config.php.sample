@@ -1,0 +1,22 @@
+<?php
+
+return [
+    'host' => '', //sample: localhost
+    'port' => '', //sample: 8080
+
+    'hawk' => [
+        'algorithm' => '', //sample: sha256
+    ],
+
+    'require_classes' => [
+        // sample: '/../../../path/to/file.php',
+    ],
+
+    'test_folder'=> '', //sample: '/path/to/folder'
+
+    'tests' => [
+        // sample: 'User',
+    ],
+];
+
+?>

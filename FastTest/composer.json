@@ -1,0 +1,22 @@
+{
+    "name": "FastTest",
+    "description": "Library FastTest.",
+    "keywords": ["test"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dênis Mendes",
+            "email": "denisffmendes@gmail.com",
+            "homepage": "http://dnsmnds.github.io"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FastTest\\": "src"
+        }
+    },
+    "require": {
+        "dflydev/hawk": "0.0.*"
+    }
+}

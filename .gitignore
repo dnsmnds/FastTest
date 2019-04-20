@@ -1,0 +1,5 @@
+vagrant
+vendor
+FastTest/composer.lock
+FastTest/composer.phar
+FastTest/config/test_config.php
